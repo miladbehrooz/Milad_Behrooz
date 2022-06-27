@@ -6,7 +6,7 @@ A Deep learning-based web application for captioning images developed using CNN 
 - Built an image caption generator  web application with Streamlit based on the deep learning model  
 
 # [Project 2: Movie Recommender App](https://github.com/miladbehrooz/Movie_Recommender)
-A movie recommender web application based on an unsupervised learning method to suggest movies based on user input.
+A movie recommender web application based on an unsupervised learning method to suggest movies based on user input
 ![](images/movie-rec-demo.gif)
 - Used small dataset of [MovieLens](https://grouplens.org/datasets/movielens/) (100,000 ratings applied to 9,000 movies by 600 users) and webscrape movie posters from [OMDb API](http://www.omdbapi.com/)
 - Implemented the following recommender methods:
@@ -16,6 +16,7 @@ A movie recommender web application based on an unsupervised learning method to 
 - Built a movie recommender app with Flask - user can select favorites movies. When user rate selected movies, 5 movies based on NMF algorithm  are recommended 
 
 # [Project 3: A Dockerized Data Pipeline for Sentiment Analysis on tweets](https://github.com/miladbehrooz/Dockerized_Data_Pipeline)
+A data pipeline with Docker to perform Sentiment Analysis on tweets and post it on a slack channel via a bot
 There are 5 steps in data pipeline:
 - Extract tweets with [Tweepy API](https://docs.tweepy.org/en/stable/index.html) 
 - Load the tweets in a MongoDB
