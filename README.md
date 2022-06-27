@@ -35,3 +35,15 @@ The project consists of three part:
 - Performing Exploratory Data Analysis
 - Calculation of the Transition Probabilities
 - Implementation of a Markov Chain-based simulator (for one or multiple customers)
+
+# [Prpject 5: Timeseries Analysis Temperature](https://github.com/miladbehrooz/Timeseries_Analysis_Temperature)
+Carried out step by step time series analysis of temperature data using Trend Seasonal model , AR model, and ARIMA model
+
+![](images/temp.gif)
+
+- Prepared a temperature forecast using temperature data from [the website of the European Climate Assessment & Dataset project](https://www.ecad.eu/)
+- Performed data cleaning and did a step-by-step time series analysis of the data, starting a base model to mimic trend and seasonality
+- Built and evaluated  AR and ARIMA models.
+
+![](images/prediction_2021.png)
+Figure : Prediction of temperature for Berlin-Tempelhof station via differnet models for 2021
