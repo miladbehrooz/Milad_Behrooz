@@ -6,6 +6,7 @@ A Deep learning-based web application for captioning images developed using CNN 
 - Built an image caption generator  web application with Streamlit based on the deep learning model  
 
 # [Project 2: Movie Recommender App](https://github.com/miladbehrooz/Movie_Recommender)
+A movie recommender web application based on an unsupervised learning method to suggest movies based on user input.
 ![](images/movie-rec-demo.gif)
 - Used small dataset of [MovieLens](https://grouplens.org/datasets/movielens/) (100,000 ratings applied to 9,000 movies by 600 users) and webscrape movie posters from [OMDb API](http://www.omdbapi.com/)
 - Implemented the following recommender methods:
