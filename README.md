@@ -22,3 +22,11 @@ There are 5 steps in data pipeline:
 - Extract the data from the PostgresDB and post it in a slack channel with a slackbot
 
 ![](images/docker-workflow.jpg)
+
+# [Project 4: Supermarket Simulation](https://github.com/miladbehrooz/Supermarket_Simulation)
+Simulation of the customer behavior in a supermarket with Markov Chain Modeling and focusing on OOP
+
+The project consists of three part:
+- Performing Exploratory Data Analysis
+- Calculation of the Transition Probabilities
+- Implementation of a Markov Chain-based simulator (for one or multiple customers)
