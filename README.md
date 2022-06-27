@@ -1,3 +1,5 @@
+Welcome! This page gives an overview of my most recent and relevant Data Science project.
+
 # [Project 1: Image Caption Generator App](https://github.com/miladbehrooz/Image_Caption_Generator) 
 A Deep learning-based web application for captioning images developed using CNN and LSTM models
 
