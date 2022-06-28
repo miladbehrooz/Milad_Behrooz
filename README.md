@@ -58,3 +58,12 @@ Apply CNNs to classify four different objects. CNN from scratch and pertained Mo
 - Generated  100 images of 4 different objects (pen, highlighter, tomato, apple) plus 160 images for 'empty' class utilizing this [python script](https://github.com/bonartm/imageclassifier)
 - Built and evaluated a CNN from scratch using TensorFlow and Keras and built and evaluated a CNN based on the MobileNet CNN using the transfer learning approach
 - Developed a script to real-time predict objects held into the camera
+
+# [Project 7: Metabase Dashboard based on a PostgreSQL database using AWS (RDS/EC2)](https://github.com/miladbehrooz/PSQL_Dashboard_AWS)
+In this project, I have been working with Northwind Database, a sample database shipped along with Microsoft Access (data is about 'Northwind Traders', a fictional company and its regarding sales transactions)
+
+The project consists of three parts:
+
+- Answered business questions on the data using PostgreSQL queries.
+- Loaded the data into a PostgreSQL DB using AWS RDS and installed Metabase using AWS EC2.
+- Built an interactive dashboard on a cloud server using Metabase.
