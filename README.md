@@ -49,3 +49,12 @@ Carried out step by step time series analysis of temperature data using Trend Se
 
 ![](images/prediction_2021.png)
 Figure : Prediction of temperature for Berlin-Tempelhof station via differnet models for 2021
+
+# [Project 6: Classification of different objects utilizing convolutional neural networks (CNNs)](https://github.com/miladbehrooz/CNN_Object_Classifier)
+Apply CNNs to classify four different objects. CNN from scratch and pertained MobileNet CNN optimized with transfer learning
+
+![](images/object-classifier.png)
+- Implemented basic algorithms in ANN (e.g. FFN and backpropagation) from scratch for educational purposes
+- Generated  100 images of 4 different objects (pen, highlighter, tomato, apple) plus 160 images for 'empty' class utilizing this [python script](https://github.com/bonartm/imageclassifier)
+- Built and evaluated a CNN from scratch using TensorFlow and Keras and built and evaluated a CNN based on the MobileNet CNN using the transfer learning approach
+- Developed a script to real-time predict objects held into the camera
