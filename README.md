@@ -50,7 +50,7 @@ Carried out step-by-step **time series analysis** of temperature data using the 
 ![](images/temp.gif)
 
 - Prepared a **temperature forecast** using temperature data from [the website of the European Climate Assessment & Dataset project](https://www.ecad.eu/)
-- Performed **data cleaning** and did a step-by-step **time series analysis** of the data, starting a **base model** to mimic **trend and **seasonality**
+- Performed **data cleaning** and did a step-by-step **time series analysis** of the data, starting a **base model** to mimic **trend and seasonality**
 - Built and evaluated  **AR and ARIMA models**.
 
 ![](images/prediction_2021.png)
