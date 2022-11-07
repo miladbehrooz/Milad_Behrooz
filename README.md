@@ -5,7 +5,8 @@ Welcome! This page gives an overview of my most recent and relevant Data Science
 A Deep learning-based web application for captioning images developed using CNN-LSTM encoder-decoder model.
 
 ![](images/img-cap-demo.gif)
-n this project, the image caption generator using CNN-LSTM encoder-decoder model was implemented. The image features were extracted from the CNN model and then those were fed into the LSTM model which is responsible for generating the image captions.
+
+In this project, the image caption generator using CNN-LSTM encoder-decoder model was implemented. The image features were extracted from the CNN model and then those were fed into the LSTM model which is responsible for generating the image captions.
 Project workflow consists of following steps:
 
 - Created features for each image using VGG16 pre-trained CNN.
