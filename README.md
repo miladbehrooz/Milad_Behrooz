@@ -56,7 +56,17 @@ Carried out step-by-step **time series analysis** of temperature data using the 
 ![](images/prediction_2021.png)
 Figure : Prediction of temperature for Berlin-Tempelhof station via differnet models for 2021
 
-# [Project 6: Classification of different objects utilizing convolutional neural networks (CNNs)](https://github.com/miladbehrooz/CNN_Object_Classifier)
+# [Project 6: Prediction of survival using classification models and deploying the best model as a REST API](https://github.com/miladbehrooz/Classification_Titanic_Data)
+
+- Used Titanic dataset from **Kaggle** to build and compare a **variety of machine learning classifiers** with the **sckit-learn** (logistic regression, decision trees, support vector machine, random forest, voting classifier), in order to predict survival of passengers on the Titanic
+- Comprised **all phases of machine learning workflow** (e.g., train-test-splitting the data, data exploration, feature engineering (incl. pipelines), optimization of hyperparameters, evaluation via cross-validation)
+- Deployed the best classifier (voting classifier) as a **REST API** using **FastAPI**
+ <center>
+ <img src="./images/classification-titanic.png" height="500" />
+ Figure : Main perfromance metrics for implemented machine learning classifiers
+ </center>
+
+# [Project 7: Classification of different objects utilizing convolutional neural networks (CNNs)](https://github.com/miladbehrooz/CNN_Object_Classifier)
 Apply CNNs to classify four different objects. CNN from scratch and pertained MobileNet CNN optimized with transfer learning
 
 ![](images/object-classifier.png)
@@ -65,7 +75,9 @@ Apply CNNs to classify four different objects. CNN from scratch and pertained Mo
 - Built and evaluated a CNN from scratch using TensorFlow and Keras and built and evaluated a CNN based on the MobileNet CNN using the transfer learning approach
 - Developed a script to real-time predict objects held into the camera
 
-# [Project 7: Metabase Dashboard based on a PostgreSQL database using AWS (RDS/EC2)](https://github.com/miladbehrooz/PSQL_Dashboard_AWS)
+
+
+# [Project 8: Metabase Dashboard based on a PostgreSQL database using AWS (RDS/EC2)](https://github.com/miladbehrooz/PSQL_Dashboard_AWS)
 In this project, I have been working with Northwind Database, a sample database shipped along with Microsoft Access (data is about 'Northwind Traders', a fictional company and its regarding sales transactions)
 
 The project consists of three parts:
@@ -74,8 +86,10 @@ The project consists of three parts:
 - Loaded the data into a PostgreSQL DB using AWS RDS and installed Metabase using AWS EC2.
 - Built an interactive dashboard on a cloud server using Metabase.
 
-# [Project 8: Gif of Fertility Rate vs Life Expectancy over time based on Gapminder dataset](https://github.com/miladbehrooz/Gapminder_Data_Analysis)
+# [Project 9: Gif of Fertility Rate vs Life Expectancy over time based on Gapminder dataset](https://github.com/miladbehrooz/Gapminder_Data_Analysis)
 ![](images/animation.gif)
 - Collected data from [Gapminder](https://www.gapminder.org/data/) project
 - Used Pandas and Seaborn to wrangle, explore, and analyse data
 - Generated Gif of Fertility Rate vs Life Expectancy over time using Seaborn and ImageIO
+
+
