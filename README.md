@@ -2,12 +2,17 @@ Welcome! This page gives an overview of my most recent and relevant Data Science
 
 # [Project 1: Image Caption Generator App](https://github.com/miladbehrooz/Image_Caption_Generator) 
 ----
-A Deep learning-based web application for captioning images developed using CNN and LSTM models
+A Deep learning-based web application for captioning images developed using CNN-LSTM encoder-decoder model.
 
 ![](images/img-cap-demo.gif)
-- Built model based on CNN and LSTM to generate captions for images automatically
-- Trained deep learning model on Flickr8K dataset. 
-- Built an image caption generator  web application with Streamlit based on the deep learning model  
+n this project, the image caption generator using CNN-LSTM encoder-decoder model was implemented. The image features were extracted from the CNN model and then those were fed into the LSTM model which is responsible for generating the image captions.
+Project workflow consists of following steps:
+
+- Created features for each image using VGG16 pre-trained CNN.
+-  Prepared text data which involves text cleaning and text tokenization.
+- Transformed image features and text data into input-output pairs of data for training CNN-LSTM model.
+- Built, trained and evaluated an encoder-decoder neural network.
+- Built an image caption generator web application with Streamlit based on the CNN-LSTM model.
 
 # [Project 2: Movie Recommender App](https://github.com/miladbehrooz/Movie_Recommender)
 A movie recommender web application based on an unsupervised learning method to suggest movies based on user input
