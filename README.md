@@ -62,7 +62,7 @@ Figure : Prediction of temperature for Berlin-Tempelhof station via differnet mo
 - Comprised **all phases of machine learning workflow** (e.g., train-test-splitting the data, data exploration, feature engineering (incl. pipelines), optimization of hyperparameters, evaluation via cross-validation)
 - Deployed the best classifier (voting classifier) as a **REST API** using **FastAPI**
  <center>
- <img src="./images/classification-titanic.png" height="500" />
+ <img src="./images/classification-titanic.png" height="500" /><br>
  Figure : Main perfromance metrics for implemented machine learning classifiers
  </center>
 
