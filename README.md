@@ -6,13 +6,13 @@ A **Deep learning-based** **web application** for captioning images developed us
 
 ![](images/img-cap-demo.gif)
 
-In this project, the image caption generator using CNN-LSTM encoder-decoder model was implemented. The image features were extracted from the **CNN model** and then fed into the **LSTM model** responsible for generating the image captions. **Project workflow** consists of the following steps:
+In this project, the image caption generator using **CNN-LSTM encoder-decoder model** was implemented. The image features were extracted from the **CNN model** and then fed into the **LSTM model** responsible for generating the image captions. **Project workflow** consists of the following steps:
 
 - Created features for each image using **VGG16** pre-trained CNN.
 - Prepared text data which involves **text cleaning** and **text tokenization**.
 - Transformed image features and text data into input-output data pairs for training the CNN-LSTM model.
 - Built, trained, and evaluated an **encoder-decoder neural network**.
-- Built an image caption generator web application with **Streamlit** based on the CNN-LSTM model.
+- Built an image caption generator **web application** with **Streamlit** based on the CNN-LSTM model.
 
 # [Project 2: Movie Recommender App](https://github.com/miladbehrooz/Movie_Recommender)
 A movie recommender web application based on an unsupervised learning method to suggest movies based on user input
@@ -45,13 +45,13 @@ The project consists of three part:
 - Implementation of a Markov Chain-based simulator (for one or multiple customers)
 
 # [Prpject 5: Timeseries Analysis Temperature](https://github.com/miladbehrooz/Timeseries_Analysis_Temperature)
-Carried out step by step time series analysis of temperature data using Trend Seasonal model , AR model, and ARIMA model
+Carried out step-by-step **time series analysis** of temperature data using the **Trend Seasonal model**, **AR model**, and **ARIMA model**.
 
 ![](images/temp.gif)
 
-- Prepared a temperature forecast using temperature data from [the website of the European Climate Assessment & Dataset project](https://www.ecad.eu/)
-- Performed data cleaning and did a step-by-step time series analysis of the data, starting a base model to mimic trend and seasonality
-- Built and evaluated  AR and ARIMA models.
+- Prepared a **temperature forecast** using temperature data from [the website of the European Climate Assessment & Dataset project](https://www.ecad.eu/)
+- Performed **data cleaning** and did a step-by-step **time series analysis** of the data, starting a **base model** to mimic **trend and **seasonality**
+- Built and evaluated  **AR and ARIMA models**.
 
 ![](images/prediction_2021.png)
 Figure : Prediction of temperature for Berlin-Tempelhof station via differnet models for 2021
