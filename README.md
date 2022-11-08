@@ -1,4 +1,4 @@
-Welcome! This page gives an overview of my most recent and relevant Data Science projects.
+**Welcome!** This page gives an overview of my **most recent and relevant Data Science projects**.
 
 # [Project 1: Image Caption Generator App](https://github.com/miladbehrooz/Image_Caption_Generator) 
 ----
@@ -18,12 +18,12 @@ In this project, the image caption generator using **CNN-LSTM encoder-decoder mo
 A movie recommender web application based on an unsupervised learning method to suggest movies based on user input
 
 ![](images/movie-rec-demo.gif)
-- Used small dataset of [MovieLens](https://grouplens.org/datasets/movielens/) (100,000 ratings applied to 9,000 movies by 600 users) and webscrape movie posters from [OMDb API](http://www.omdbapi.com/)
-- Implemented the following recommender methods:
+- Used a small dataset of [MovieLens](https://grouplens.org/datasets/movielens/) (100,000 ratings applied to 9,000 movies by 600 users) and the **web-scraped movie posters** from [OMDb API](http://www.omdbapi.com/)
+- Implemented the following **recommender methods**:
   - Simple Recommender (recommend the most popular movies)
-  - Non Negative Matrix Factorization (NMF)
-  - Collaborative Filtering
-- Built a movie recommender app with Flask - user can select favorites movies. When user rate selected movies, 5 movies based on NMF algorithm  are recommended 
+  - **Non-Negative Matrix Factorization (NMF)**
+  - **Collaborative Filtering**
+- Built a movie **recommender app** with **Flask** - user can select favorites movies. When user rate selected movies, 5 movies based on the NMF algorithm  are recommended 
 
 # [Project 3: A Dockerized Data Pipeline for Sentiment Analysis on tweets](https://github.com/miladbehrooz/Dockerized_Data_Pipeline)
 A data pipeline with Docker to perform Sentiment Analysis on tweets and post it on a slack channel via a bot
