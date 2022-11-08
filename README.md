@@ -86,10 +86,14 @@ The project consists of three parts:
 - Loaded the data into a **PostgreSQL DB** using **AWS RDS** and installed **Metabase** using **AWS EC2**.
 - Built an **interactive dashboard** on a **cloud server** using **Metabase**.
 
-# [Project 9: Gif of Fertility Rate vs Life Expectancy over time based on Gapminder dataset](https://github.com/miladbehrooz/Gapminder_Data_Analysis)
-![](images/animation.gif)
+# [Interactive visualization of the Fertility Rate vs Life Expectancy over time based on Gapminder dataset](https://github.com/miladbehrooz/Gapminder_Data_Analysis)
+![](images/gapminder-demo.gif)
+
 - Collected data from [Gapminder](https://www.gapminder.org/data/) project
-- Used Pandas and Seaborn to wrangle, explore, and analyse data
-- Generated Gif of Fertility Rate vs Life Expectancy over time using Seaborn and ImageIO
+- Used **Pandas** and **Seaborn** to **wrangle**, explore, and **analyze data**
+- Generated Gif of Fertility Rate vs Life Expectancy over time using **Seaborn** and **ImageIO**
+- Created **Interactive Data Visualization** using **Bokeh**
+
+*Note: To run interavtive_plot* use ```bokeh serve --show interactive_plot.py ``` in terminal
 
 
