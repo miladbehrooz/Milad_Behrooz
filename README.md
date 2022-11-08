@@ -94,6 +94,5 @@ The project consists of three parts:
 - Generated Gif of Fertility Rate vs Life Expectancy over time using **Seaborn** and **ImageIO**
 - Created **Interactive Data Visualization** using **Bokeh**
 
-*Note: To run interavtive_plot* use ```bokeh serve --show interactive_plot.py ``` in terminal
 
 
