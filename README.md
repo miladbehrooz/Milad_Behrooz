@@ -26,13 +26,13 @@ A movie **recommender web application** that uses **unsupervised learning method
 - Built a movie **recommender app** with **Flask** - user can select favorites movies. When user rate selected movies, 5 movies based on the NMF algorithm  are recommended 
 
 # [Project 3: A Dockerized Data Pipeline for Sentiment Analysis on tweets](https://github.com/miladbehrooz/Dockerized_Data_Pipeline)
-A data pipeline with Docker to perform Sentiment Analysis on tweets and post it on a slack channel via a bot
-There are 5 steps in data pipeline:
+A **data pipeline** with **Docker** to perform **Sentiment Analysis** on tweets and post it on a slack channel via a bot
+There are 5 steps in the **data pipeline**:
 - Extract tweets with [Tweepy API](https://docs.tweepy.org/en/stable/index.html) 
-- Load the tweets in a MongoDB
-- Extract the tweets from MongoDB, perform sentiment analyisis on the tweets and load the transformed data in a PostgresDB (ETL job)
-- Load the tweets and corresponding sentiment assessment in a Postgres database
-- Extract the data from the PostgresDB and post it in a slack channel with a slackbot
+- Loaded the tweets in a **MongoDB**
+- Extracted the tweets from **MongoDB**, performed **sentiment analysis** on the tweets, and loaded the transformed data in a **PostgresDB** **(ETL job)**
+- Loaded the tweets and corresponding sentiment assessment in a **PostgresDB**
+- Extracted the data from the **PostgresDB** and posted it in a slack channel with a **Slack bot**
 
 ![](images/docker-workflow.jpg)
 
