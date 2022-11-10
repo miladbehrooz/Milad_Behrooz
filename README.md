@@ -66,15 +66,13 @@ Figure : Prediction of temperature for Berlin-Tempelhof station via differnet mo
  Figure : Main perfromance metrics for implemented machine learning classifiers
  </center>
 
-# [Project 7: Classification of different objects utilizing convolutional neural networks (CNNs)](https://github.com/miladbehrooz/CNN_Object_Classifier)
-Apply **CNN** to **classify** four different objects; **CNN** from scratch and pertained **MobileNet** CNN optimized with **transfer learning**
+# [Project 7: Interactive visualization of the Fertility Rate vs Life Expectancy over time based on Gapminder dataset](https://github.com/miladbehrooz/Gapminder_Data_Analysis)
+![](images/gapminder-demo.gif)
 
-![](images/object-classifier.png)
-
-- Generated  100 images of 4 different objects (pen, highlighter, tomato, apple) plus 160 images for the 'empty' class utilizing this [python script](https://github.com/bonartm/imageclassifier)
-- Built and evaluated a **CNN** from scratch using **TensorFlow** and **Keras** and built and evaluated a CNN based on the **MobileNet** CNN using the **transfer learning** approach
-- Developed a script to **real-time predict objects** held into the camera
-
+- Collected data from [Gapminder](https://www.gapminder.org/data/) project
+- Used **Pandas** and **Seaborn** to **wrangle**, explore, and **analyze data**
+- Generated Gif of Fertility Rate vs Life Expectancy over time using **Seaborn** and **ImageIO**
+- Created **Interactive Data Visualization** using **Bokeh**
 
 
 # [Project 8: Metabase Dashboard based on a PostgreSQL database using AWS (RDS/EC2)](https://github.com/miladbehrooz/PSQL_Dashboard_AWS)
@@ -86,13 +84,13 @@ The project consists of three parts:
 - Loaded the data into a **PostgreSQL DB** using **AWS RDS** and installed **Metabase** using **AWS EC2**.
 - Built an **interactive dashboard** on a **cloud server** using **Metabase**.
 
-# [Project 9: Interactive visualization of the Fertility Rate vs Life Expectancy over time based on Gapminder dataset](https://github.com/miladbehrooz/Gapminder_Data_Analysis)
-![](images/gapminder-demo.gif)
+# [Project 9: Classification of different objects utilizing convolutional neural networks (CNNs)](https://github.com/miladbehrooz/CNN_Object_Classifier)
+Apply **CNN** to **classify** four different objects; **CNN** from scratch and pertained **MobileNet** CNN optimized with **transfer learning**
 
-- Collected data from [Gapminder](https://www.gapminder.org/data/) project
-- Used **Pandas** and **Seaborn** to **wrangle**, explore, and **analyze data**
-- Generated Gif of Fertility Rate vs Life Expectancy over time using **Seaborn** and **ImageIO**
-- Created **Interactive Data Visualization** using **Bokeh**
+![](images/object-classifier.png)
 
+- Generated  100 images of 4 different objects (pen, highlighter, tomato, apple) plus 160 images for the 'empty' class utilizing this [python script](https://github.com/bonartm/imageclassifier)
+- Built and evaluated a **CNN** from scratch using **TensorFlow** and **Keras** and built and evaluated a CNN based on the **MobileNet** CNN using the **transfer learning** approach
+- Developed a script to **real-time predict objects** held into the camera
 
 
