@@ -46,7 +46,7 @@ The project consists of three parts:
 - Implemented a **Markov Chain-based simulator** using **OOP** (for one or multiple customers)
 
 # [Prpject 5: Timeseries Analysis Temperature](https://github.com/miladbehrooz/Timeseries_Analysis_Temperature)
-Carried out step-by-step **time series analysis** of temperature data using the **Trend Seasonal model**, **AR model**, and **ARIMA model**.
+Performing step-by-step **time series analysis** of temperature data using the **Trend Seasonal model**, **AR model**, and **ARIMA model**.
 
 ![](images/temp.gif)
 
