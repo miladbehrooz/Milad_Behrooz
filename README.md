@@ -57,6 +57,23 @@ Performing step-by-step **time series analysis** of temperature data using the *
 ![](images/prediction_2021.png)
 Figure : Prediction of temperature for Berlin-Tempelhof station via differnet models for 2021
 
+# [Project 6: Natural language processing of web scraped lyrics](https://github.com/miladbehrooz/NLP_Lyrics)
+
+Implementation of different **NLP** techniques using **web scraped lyrics** <>
+<center>
+<img src="./images/coldplay.png" height="600" />
+</center>  
+<br>
+
+- Wrote a script with a **command line interface** for **web scraping of lyrics** of any artist from [AZLyrics website](https://www.azlyrics.com/) using **Beautiful Soup** and **regular expressions**
+
+- Built a text **classification model** on *lyrics* with the goal to **predict an artist** from a piece of text
+- Utilized **bag of words** (and vectorization) as well as **Naive Bayes** to implement a **classification model** for the described task
+- Wrote another script with a command line interface for creating **fancy word cloud** from lyrics
+
+
+Figure: Angel wings shaped word cloud of 100 most used words in lyrics for Coldplay
+
 # [Project 6: Prediction of survival using classification models and deploying the best model as a REST API](https://github.com/miladbehrooz/Classification_Titanic_Data)
 
 - Used Titanic dataset from **Kaggle** to build and compare a **variety of machine learning classifiers** with the **sckit-learn** (logistic regression, decision trees, support vector machine, random forest, voting classifier), in order to predict survival of passengers on the Titanic
