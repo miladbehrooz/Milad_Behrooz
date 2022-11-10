@@ -27,6 +27,7 @@ A movie **recommender web application** that uses **unsupervised learning method
 
 # [Project 3: A Dockerized Data Pipeline for Sentiment Analysis on tweets](https://github.com/miladbehrooz/Dockerized_Data_Pipeline)
 A **data pipeline** with **Docker** to perform **Sentiment Analysis** on tweets and post it on a slack channel via a bot
+
 There are 5 steps in the **data pipeline**:
 - Extract tweets with [Tweepy API](https://docs.tweepy.org/en/stable/index.html) 
 - Loaded the tweets in a **MongoDB**
