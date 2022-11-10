@@ -74,7 +74,7 @@ Implementation of different **NLP** techniques using **web scraped lyrics**
 
 Figure: Angel wings shaped word cloud of 100 most used words in lyrics for Coldplay
 
-# [Project 6: Prediction of survival using classification models and deploying the best model as a REST API](https://github.com/miladbehrooz/Classification_Titanic_Data)
+# [Project 7: Prediction of survival using classification models and deploying the best model as a REST API](https://github.com/miladbehrooz/Classification_Titanic_Data)
 
 - Used Titanic dataset from **Kaggle** to build and compare a **variety of machine learning classifiers** with the **sckit-learn** (logistic regression, decision trees, support vector machine, random forest, voting classifier), in order to predict survival of passengers on the Titanic
 - Comprised **all phases of machine learning workflow** (e.g., train-test-splitting the data, data exploration, feature engineering (incl. pipelines), optimization of hyperparameters, evaluation via cross-validation)
@@ -83,8 +83,13 @@ Figure: Angel wings shaped word cloud of 100 most used words in lyrics for Coldp
  <img src="./images/classification-titanic.png" height="500" /><br>
  Figure : Main perfromance metrics for implemented machine learning classifiers
  </center>
+ 
+ # [Project 8: Prediction of demand for bike rentals using regression models](https://github.com/miladbehrooz/Bike_Rental_Prediction)
+ 
+- Built and trained ***regression models*** with the ***Sckit-learn*** on the ***Capital Bike Share (Washington, D.C.) Kaggle*** dataset, in order to predict ***demand for bicycle rentals*** at any given hour, based on time and weather
+- Comprised ***all phases of machine learning workflow*** (e.g., train-test-splitting the data, exploratory data analysis, iteratively optimizing the models by expanding or selecting features (using pipelines), regularizing models to avoid overfitting, optimization of hyperparameters, evaluating models for train and test data based on RMSLE)
 
-# [Project 7: Interactive visualization of the Fertility Rate vs Life Expectancy over time based on Gapminder dataset](https://github.com/miladbehrooz/Gapminder_Data_Analysis)
+# [Project 9: Interactive visualization of the Fertility Rate vs Life Expectancy over time based on Gapminder dataset](https://github.com/miladbehrooz/Gapminder_Data_Analysis)
 ![](images/gapminder-demo.gif)
 
 - Collected data from [Gapminder](https://www.gapminder.org/data/) project
@@ -93,7 +98,7 @@ Figure: Angel wings shaped word cloud of 100 most used words in lyrics for Coldp
 - Created **Interactive Data Visualization** using **Bokeh**
 
 
-# [Project 8: Metabase Dashboard based on a PostgreSQL database using AWS (RDS/EC2)](https://github.com/miladbehrooz/PSQL_Dashboard_AWS)
+# [Project 10: Metabase Dashboard based on a PostgreSQL database using AWS (RDS/EC2)](https://github.com/miladbehrooz/PSQL_Dashboard_AWS)
 In this project, I have been working with **Northwind Database**, a sample database shipped along with Microsoft Access (data is about 'Northwind Traders', a fictional company and regarding sales transactions)
 
 The project consists of three parts:
@@ -102,7 +107,7 @@ The project consists of three parts:
 - Loaded the data into a **PostgreSQL DB** using **AWS RDS** and installed **Metabase** using **AWS EC2**.
 - Built an **interactive dashboard** on a **cloud server** using **Metabase**.
 
-# [Project 9: Classification of different objects utilizing convolutional neural networks (CNNs)](https://github.com/miladbehrooz/CNN_Object_Classifier)
+# [Project 11: Classification of different objects utilizing convolutional neural networks (CNNs)](https://github.com/miladbehrooz/CNN_Object_Classifier)
 Apply **CNN** to **classify** four different objects; **CNN** from scratch and pertained **MobileNet** CNN optimized with **transfer learning**
 
 ![](images/object-classifier.png)
