@@ -59,7 +59,7 @@ Figure : Prediction of temperature for Berlin-Tempelhof station via differnet mo
 
 # [Project 6: Natural language processing of web scraped lyrics](https://github.com/miladbehrooz/NLP_Lyrics)
 
-Implementation of different **NLP** techniques using **web scraped lyrics** <>
+Implementation of different **NLP** techniques using **web scraped lyrics**
 <center>
 <img src="./images/coldplay.png" height="600" />
 </center>  
